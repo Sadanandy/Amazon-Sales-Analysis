@@ -8,7 +8,6 @@ This project aims to analyze Amazon product sales data to extract valuable insig
 - **Dataset Name:** Amazon Products Sales Dataset 2023
 - **Source:** Kaggle
 - **Format:** CSV
-- **Columns:** (To be updated after initial data exploration)
 - **Objective:** Understand customer behavior, pricing trends, and competitive strategies.
 
 ##  Key Analysis Goals
