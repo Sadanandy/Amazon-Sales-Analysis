@@ -1,7 +1,7 @@
 # Amazon-Sales-Analysis
  Amazon Sales Data Analysis – Analyzing Amazon product sales, pricing trends, and customer engagement using Python and data analytics.
 
-## 📌 Project Overview
+##  Project Overview
 This project aims to analyze Amazon product sales data to extract valuable insights about customer engagement, pricing strategies, and competitive trends. The analysis will help in understanding market patterns and optimizing business decisions using data analytics.
 
 ##  Dataset Information
@@ -28,7 +28,7 @@ This project aims to analyze Amazon product sales data to extract valuable insig
 -  Exploratory Data Analysis (EDA)
 -  Visualization
 
-## 📌 How to Use This Repository
+##  How to Use This Repository
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Sadanandy/Amazon-Sales-Analysis.git
